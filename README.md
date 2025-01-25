@@ -1,2 +1,3 @@
 # dj_primer_project
-django primer_project
+Curso de dJango:
+primer_project code
